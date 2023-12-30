@@ -1,6 +1,5 @@
 # Fotos: Centro urbado de Salento, Quindio
 
-DJI_0021.JPG
 <img width="500" alt="Zona de trabajo" src="DJI_0021.JPG">
 
 <img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">

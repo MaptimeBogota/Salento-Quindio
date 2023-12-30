@@ -1,4 +1,4 @@
-# Fotos: Centro urbado de Salento, Quindio
+# Fotos: Centro urbano de Salento, Quindio
 
 <img width="500" alt="Zona de trabajo" src="DJI_0021.JPG">
 
@@ -14,4 +14,4 @@ Hay diferente tipos de fotos:
 * Ortofoto en OpenAerialMap.
 * Trazas: Trazas GPX tomadas en terreno, que ayudar a alinear la ortofoto.
 
-Todos los archivos (fotos, ortofotos, trazas) de este repositorio están bajo dominio público.
+Todos los archivos (fotos, ortofotos) de este repositorio están bajo dominio público.
